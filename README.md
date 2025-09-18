@@ -44,11 +44,9 @@ The chatbot flow was designed to ensure:
 
 ---
 
-## 📷 Screenshots  
+## 📷 Snapshots of Interactions with the Chatbot
 
-| Chatbot Demo | Facebook Business Page |
-|--------------|--------------------------|
-| ![Chatbot](screenshots/Screenshot1.png) | ![FB Page](screenshots/Screenshot6.png) |
+![](snapshot.1.png) | ![FB Page](screenshots/Screenshot6.png) |
 
 ---
 
