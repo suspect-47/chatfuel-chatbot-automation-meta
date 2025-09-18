@@ -1,12 +1,10 @@
-# 🤖 Allez Attire Facebook Chatbot  
+# Chatbot Design by ChatFuel
 *Wear Your Freedom – Automated E-Commerce Assistant*
-
----
 
 ## 📌 Project Overview  
 This project demonstrates the design and implementation of a fully automated **Facebook Messenger chatbot** for **Allez Attire**, a fashion brand offering men’s and women’s clothing.  
 
-The chatbot was built using **ChatFuel**, connected to a **Facebook Business Page**, and synchronized to provide instant customer service, FAQs, and guided shopping flows — all without human intervention.  
+The chatbot was built using **ChatFuel**, connected to a **Facebook Business Page**, and synchronized to provide instant customer service, FAQs, and guided shopping flows, all without human intervention.  
 
 🔗 **Live Chatbot Link**: [m.me/102326442217595](https://m.me/102326442217595)  
 
