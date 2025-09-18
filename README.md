@@ -1,4 +1,4 @@
-# Chatbot Design by ChatFuel
+# Chatbot Design by ChatFuel, Facebook Business Page Creation
 *Wear Your Freedom – Automated E-Commerce Assistant*
 
 ## 📌 Project Overview  
@@ -9,7 +9,9 @@ This project demonstrates the design and implementation of a fully automated **F
 
 The chatbot was built using **ChatFuel**, connected to a **Facebook Business Page**, and synchronized to provide instant customer service, FAQs, and guided shopping flows, all without human intervention.  
 
-🔗 **Live Chatbot Link**: [m.me/102326442217595](https://m.me/102326442217595)  
+🔗 **Live Chatbot Link**: [m.me/102326442217595](https://m.me/102326442217595)
+
+Please view some of the **Snapshots** of Interactions with the Chatbot.
 
 ---
 
@@ -41,12 +43,6 @@ The chatbot flow was designed to ensure:
 - **Customer Query Anticipation** (common e-commerce FAQs).  
 - **Positive Fallback** (always guides users forward).  
 - **Brand Engagement** (consistent tone and visual reinforcement).  
-
----
-
-## 📷 Snapshots of Interactions with the Chatbot
-
-![](snapshot.1.png) | ![](snapshot.2.png) | ![](snapshot.3.png) | ![](snapshot.4.png) | ![](snapshot.5.png)
 
 ---
 
@@ -88,5 +84,3 @@ The detailed project report can be found here:
 - **Category**: Men’s & Women’s Clothing  
 - **Tools Used**: ChatFuel, Facebook Business Page, Messenger API  
 - **Tagline**: *Wear Your Freedom*  
-
----
